@@ -1,6 +1,6 @@
 # IPL Score Predictor
 
-This **Streamlit web application** allows users to predict the total runs in an IPL match based on current runs and wickets.
+This **ML Model** allows users to predict the total runs in an IPL match based on current runs and wickets.
 
 ## **Algorithms Used**
 
